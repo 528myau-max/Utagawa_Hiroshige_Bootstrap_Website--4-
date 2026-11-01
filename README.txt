@@ -6,4 +6,6 @@ Files:
 - style.css: Custom styling
 - images/: Artwork assets from your uploaded ZIP
 
-To view: unzip this folder, then double-click index.html. An internet connection is needed for the Bootstrap and Google Fonts CDN links.
+https://www.fujibi.or.jp/en/collection/artwork-artist/a087/
+https://www.nortonsimon.org/exhibitions/2010-2019/hiroshige-visions-of-japan
+https://www.artic.edu/artists/34946/utagawa-hiroshige
